@@ -1,0 +1,7 @@
+# git clone https://github.com/DavidDeFilippi/radiosytvcristianas.git F:/Proyectos/radiosytvcristianas/
+
+# git -C F:/Proyectos/radiosytvcristianas/ add .
+
+# git -C F:/Proyectos/radiosytvcristianas/ commit -m "El Commit"
+
+# git -C F:/Proyectos/radiosytvcristianas/ push origin main
