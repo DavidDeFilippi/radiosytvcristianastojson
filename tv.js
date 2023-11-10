@@ -52,6 +52,9 @@ const toJson = async () => {
 
         { id: 'ejtv', name: 'EJTV', url: 'https://1-349-11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8', logo: 'https://ejtv.wpenginepowered.com/wp-content/uploads/2014/07/EJTVlogo.png', categoria: '' },
 
+        { id: 'Radiolibertad1063FM', name: 'Radio Libertad 106.3 FM', url: 'https://panel.tvstream.cl:1936/8010/8010/playlist.m3u8', logo: 'https://radiolibertad.cl/wp-content/uploads/2021/08/LOGO-RADIO.png', categoria: '' },
+
+
     ];
 
     canales.sort(function (a, b) {
