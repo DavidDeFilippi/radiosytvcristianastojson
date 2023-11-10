@@ -12,6 +12,7 @@ const toJson = async () => {
         { id: 'tiemposfinales', name: 'Tiempos Finales', url: 'https://audio2.tustreaming.cl/8130/stream', logo: 'https://tiemposfinales.cl/wp-content/uploads/2021/02/cropped-icono-final-180x180.png', categoria: '' },
         { id: 'radiofe', name: 'Radio Fe', url: 'https://ssl.newvoxlive.net:7030/;', logo: 'https://www.radiofe.cl/radio/assets/img/logo_radio_fe.png', categoria: '' },
         { id: 'radiocorporacion', name: 'Radio Corporacion', url: 'https://audio1.tustreaming.cl/8026/stream', logo: 'https://static.wixstatic.com/media/4218ee_dde16e9e46b1465ba81aea601ee695c8%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/4218ee_dde16e9e46b1465ba81aea601ee695c8%7Emv2.jpg', categoria: '' },
+        { id: 'radiocentrocristiano', name: 'Radio Centro Cristiano', url: 'https://stats2.mytuner.mobi/api/v2/web-api/play', logo: 'https://static.mytuner.mobi/media/tvos_radios/ugfjbwqfq3fh.jpg', categoria: '' },
     ];
 
     radios.sort(function (a, b) {
