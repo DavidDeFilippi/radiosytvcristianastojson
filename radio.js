@@ -23,6 +23,13 @@ const toJson = async () => {
         { id: 'iniciaradiocl', name: 'INICIARADIO.CL', url: 'https://sonando-us.digitalproserver.com/iniciaradio.aac', logo: 'https://iniciaradio.cl/wp-content/uploads/2023/05/Proyecto-nuevo.png', categoria: '' },
         { id: 'radiosinaitemuco', name: 'Radio Sinai Temuco', url: 'https://sonic.streamingchilenos.com/9976/;', logo: 'https://www.radiosinaitemuco.cl/img/logo.jpeg', categoria: '' },
         { id: 'Radiolibertad1063FM', name: 'Radio Libertad 106.3 FM', url: 'https://sonic.streamingchilenos.com/8136/stream', logo: 'https://radiolibertad.cl/wp-content/uploads/2021/08/LOGO-RADIO.png', categoria: '' },
+        { id: 'radioevangelicaguatemala', name: 'Radio Evangelica Guatemala', url: 'https://ss.redradios.net:8000/stream', logo: 'https://radioevangelica.com/site/wp-content/uploads/2018/06/cropped-re-2-180x180.png', categoria: '' },
+        { id: 'radiocristianaevangelicaelpilar1005fm', name: 'Radio Cristiana Evangelica El Pilar 100.5 FM', url: 'https://radio.garden/api/ara/content/listen/z8K9IAQy/channel.mp3', logo: defaultIcon, categoria: '' },
+        { id: 'emisoracristianarcvonline', name: 'Emisora Cristiana RCV online', url: 'http://stm11.voxhd.com.br:9432/;', logo: 'https://static.mytuner.mobi/media/tvos_radios/XEE3hFZrT3.png', categoria: '' },
+        { id: 'mensajeracristiana', name: 'Mensajera Cristiana', url: 'https://sonic-us.streaming-chile.com/8048/stream', logo: 'https://radiomensajera.cl/wp-content/uploads/2022/02/master-radio-evangelica4-AMARELO-2.png', categoria: '' },
+        { id: 'radioevangelicabetel', name: 'Radio Evangélica Betel', url: 'https://panel.yupistream.com/proxy/ysbetel/stream', logo: 'https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQxOq1gwoMCxIOU3RhdGlvblByb2ZpbGUYgIDw9szF4wkMogEEemVubw/images/logo?keep=w&resize=350x350', categoria: '' },
+        { id: 'radioevangelicamekaddesh909fmelsalvador', name: 'Radio Evangélica Mekaddesh 90.9 FM El Salvador', url: 'https://tv.radiohosting.online:9922/stream', logo: 'https://www.radio-addict.com/media/stream/cc1c255a-ef2c-4888-a65f-226ea6905c84.jpg', categoria: '' },
+        { id: 'radioiluminacionsantiagodechile', name: 'Radio Iluminación Santiago de Chile', url: 'https://stream.zeno.fm/h5494w6w398uv', logo: 'https://radioscristianasdelmundo.com/sites/default/files/styles/player_image/public/2022-07/radio-iluminacion-santiago-de-chile.png.webp?itok=cuuhqitU', categoria: '' },
 
     ];
 
