@@ -10,8 +10,6 @@ const toJson = async () => {
        
         { id: 'enlace', name: 'Enlace', url: 'https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-fullHD.smil/playlist.m3u8', logo: 'https://www.enlace.org/wp-content/uploads/2015/08/cropped-logo-3D-preview-192x192.png', categoria: '' },
         
-        { id: 'tnetv', name: 'TNETV', url: 'https://v2.tustreaming.cl/tnetv/index.m3u8', logo: 'https://www.tnetv.cl/wp-content/uploads/2023/05/icon-150x150.png', categoria: '' },
-        
         { id: 'enlacebpb', name: 'Enlace BPB', url: 'https://v1.tustreaming.cl/enlacebpbtv/index.m3u8', logo: 'https://www.enlacebpb.cl/online/assets/images/logo-enlace-rrss-24x-1.png', categoria: '' },
        
         { id: 'corporaciontv', name: 'Corporacion TV', url: 'https://v2.tustreaming.cl/corporaciontv/index.m3u8', logo: 'https://yt3.googleusercontent.com/ytc/APkrFKZ-P8hrvlSlVHuHsZe1e9Fw_emQqy8H0-4GkcCg=s900-c-k-c0x00ffffff-no-rj', categoria: '' },
