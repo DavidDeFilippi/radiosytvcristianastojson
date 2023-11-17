@@ -34,7 +34,8 @@ const toJson = async () => {
         { id: 'radioesperanzadegloria', name: 'Radio Esperanza de Gloria', url: 'https://s1.bycast.com.br:8008/live', logo: 'https://static.wixstatic.com/media/7ff46a_32a8172478a641bf95b50dafeb64c5e0.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/7ff46a_32a8172478a641bf95b50dafeb64c5e0.png', categoria: '' },
         { id: 'radiouncantodegloria', name: 'Radio Un Canto de Gloria', url: 'https://grupcomunicados.us/8050/stream', logo: 'https://www.uncantodegloria.com/sitepad-data/uploads/2022/07/logo-un-canto-de-gloria.png', categoria: '' },
         { id: 'radiosintoniadelevangelio', name: 'Radio Sintonia del Evangelio', url: 'https://radio.saopaulo01.com.br/8260/stream', logo: 'https://radiosintonia.cl/wp-content/uploads/2022/07/logo.jpeg', categoria: '' },
-        { id: 'radioverdad', name: 'RRI - "La Palabra de Dios Para Ti"', url: 'https://dattavolt.com/8164/stream', logo: 'https://i.imgur.com/VbejDr0.png', categoria: '' },
+        { id: 'radioverdad', name: 'Radio Verdad', url: 'https://cloudstream2036.conectarhosting.com/8168/stream', logo: 'https://www.radioverdad.com/wp-content/uploads/2022/04/unnamed.webp', categoria: '' },
+        { id: 'rri', name: 'RRI - "La Palabra de Dios Para Ti"', url: 'https://dattavolt.com/8164/stream', logo: 'https://i.imgur.com/VbejDr0.png', categoria: '' },
         { id: 'radiobethel', name: 'Radio Bethel', url: 'https://tampa.audio-stream.com/proxy/bethelra', logo: 'https://www.bethelradio.fm/images/logo-bethel.svg', categoria: '' },
 
     ];
