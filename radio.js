@@ -8,7 +8,7 @@ const toJson = async () => {
 
         { id: 'bbn', name: 'BBN', url: 'https://streams.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f', logo: 'https://bbn1.bbnradio.org/spanish/wp-content/uploads/sites/5/2017/01/bbnfavicon32x32.png', categoria: '' },
         // { id: 'armonia', name: 'Armonia', url: 'http://audio.armonia.cl:3032/1.mp3', logo: 'https://myradioonline.cl/public/uploads/radio_img/radio-armonia/play_250_250.jpg', categoria: '' },
-        { id: 'manantialdevida', name: 'Manantial de Vida', url: 'https://audio3.tustreaming.cl:10955/stream', logo: 'https://radiomdv.cl/wp-content/uploads/2020/06/favicon.fw_-2-100x100.png', categoria: '' },
+        { id: 'manantialdevida', name: 'Manantial de Vida MDV', url: 'https://audio3.tustreaming.cl:10955/stream', logo: 'https://radiomdv.cl/wp-content/uploads/2020/06/favicon.fw_-2-100x100.png', categoria: '' },
         { id: 'plenitud', name: 'Plenitud', url: 'https://audio1.tustreaming.cl/8190/stream', logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4K1EXhYyjmxwt6IlCDXhxM4RyaTdk1bIMEE4XVy5u7C-sKDP', categoria: '' },
         { id: 'radiocristianachile', name: 'Radio Cristiana Chile', url: 'https://streaming01.shockmedia.com.ar:10794/;stream.mp3', logo: 'https://yt3.googleusercontent.com/TsDsseKrFUzStoeAWfC501NGV0MbPeMAMqc8aU6RKRwZSfwZhLyM8Xx4tmpkn4OBdumpw8zvgw=s176-c-k-c0x00ffffff-no-rj', categoria: '' },
         { id: 'tiemposfinales', name: 'Tiempos Finales', url: 'https://audio2.tustreaming.cl/8130/stream', logo: 'https://tiemposfinales.cl/wp-content/uploads/2021/02/cropped-icono-final-180x180.png', categoria: '' },
@@ -30,6 +30,12 @@ const toJson = async () => {
         { id: 'radioevangelicabetel', name: 'Radio Evangélica Betel', url: 'https://panel.yupistream.com/proxy/ysbetel/stream', logo: 'https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQxOq1gwoMCxIOU3RhdGlvblByb2ZpbGUYgIDw9szF4wkMogEEemVubw/images/logo?keep=w&resize=350x350', categoria: '' },
         { id: 'radioevangelicamekaddesh909fmelsalvador', name: 'Radio Evangélica Mekaddesh 90.9 FM El Salvador', url: 'https://tv.radiohosting.online:9922/stream', logo: 'https://www.radio-addict.com/media/stream/cc1c255a-ef2c-4888-a65f-226ea6905c84.jpg', categoria: '' },
         { id: 'radioiluminacionsantiagodechile', name: 'Radio Iluminación Santiago de Chile', url: 'https://stream.zeno.fm/h5494w6w398uv', logo: 'https://radioscristianasdelmundo.com/sites/default/files/styles/player_image/public/2022-07/radio-iluminacion-santiago-de-chile.png.webp?itok=cuuhqitU', categoria: '' },
+        { id: 'radiosanadoctrina', name: 'Radio Sana Doctrina', url: 'https://radiostreaming.privateserverid.com/8056/stream', logo: 'https://i.imgur.com/GpMJSNA.png', categoria: '' },
+        { id: 'radioesperanzadegloria', name: 'Radio Esperanza de Gloria', url: 'https://s1.bycast.com.br:8008/live', logo: 'https://static.wixstatic.com/media/7ff46a_32a8172478a641bf95b50dafeb64c5e0.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/7ff46a_32a8172478a641bf95b50dafeb64c5e0.png', categoria: '' },
+        { id: 'radiouncantodegloria', name: 'Radio Un Canto de Gloria', url: 'https://grupcomunicados.us/8050/stream', logo: 'https://www.uncantodegloria.com/sitepad-data/uploads/2022/07/logo-un-canto-de-gloria.png', categoria: '' },
+        { id: 'radiosintoniadelevangelio', name: 'Radio Sintonia del Evangelio', url: 'https://radio.saopaulo01.com.br/8260/stream', logo: 'https://radiosintonia.cl/wp-content/uploads/2022/07/logo.jpeg', categoria: '' },
+        { id: 'radioverdad', name: 'RRI - "La Palabra de Dios Para Ti"', url: 'https://dattavolt.com/8164/stream', logo: 'https://i.imgur.com/VbejDr0.png', categoria: '' },
+        { id: 'radiobethel', name: 'Radio Bethel', url: 'https://tampa.audio-stream.com/proxy/bethelra', logo: 'https://www.bethelradio.fm/images/logo-bethel.svg', categoria: '' },
 
     ];
 

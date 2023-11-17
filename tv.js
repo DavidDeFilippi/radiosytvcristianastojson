@@ -52,6 +52,8 @@ const toJson = async () => {
 
         { id: 'Radiolibertad1063FM', name: 'Radio Libertad 106.3 FM', url: 'https://panel.tvstream.cl:1936/8010/8010/playlist.m3u8', logo: 'https://radiolibertad.cl/wp-content/uploads/2021/08/LOGO-RADIO.png', categoria: '' },
 
+        { id: 'jcntelevision', name: 'JCN Television', url: 'https://vdo.panelstreaming.live:3037/stream/play.m3u8', logo: 'https://i0.wp.com/jcntv.cl/wp-content/uploads/2021/05/Proyecto-logo.png?w=823&ssl=1', categoria: '' },
+
 
     ];
 
