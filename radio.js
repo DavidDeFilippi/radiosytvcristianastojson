@@ -7,6 +7,7 @@ const toJson = async () => {
     let radios = [
 
         { id: 'bbn', name: 'BBN', url: 'https://streams.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f', logo: 'https://bbn1.bbnradio.org/spanish/wp-content/uploads/sites/5/2017/01/bbnfavicon32x32.png', categoria: '' },
+        { id: 'bbn2', name: 'BBN Opcion 2', url: 'https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f', logo: 'https://bbn1.bbnradio.org/spanish/wp-content/uploads/sites/5/2017/01/bbnfavicon32x32.png', categoria: '' },
         // { id: 'armonia', name: 'Armonia', url: 'http://audio.armonia.cl:3032/1.mp3', logo: 'https://myradioonline.cl/public/uploads/radio_img/radio-armonia/play_250_250.jpg', categoria: '' },
         { id: 'manantialdevida', name: 'Manantial de Vida MDV', url: 'https://audio3.tustreaming.cl:10955/stream', logo: 'https://radiomdv.cl/wp-content/uploads/2020/06/favicon.fw_-2-100x100.png', categoria: '' },
         { id: 'plenitud', name: 'Plenitud', url: 'https://audio1.tustreaming.cl/8190/stream', logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4K1EXhYyjmxwt6IlCDXhxM4RyaTdk1bIMEE4XVy5u7C-sKDP', categoria: '' },
